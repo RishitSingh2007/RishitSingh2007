@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishit Singh
 - 👀 I’m interested in 
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on graphic based games and apps
 - 📫 How to reach me - Instagram @ rishitsingh.exe
                      - Snapchat @ rishitsingh.exe
